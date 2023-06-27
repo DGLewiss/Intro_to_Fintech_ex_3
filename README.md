@@ -5,14 +5,14 @@
 * [Robo Advisors and Personal Finance](#Robo-Advisors-and-Personal-Finance)
 * [RegTech (Regulation Technology)](#RegTech)
 * [Digital Banking](#Digital-Banking)
-* [InsurTech](InsurTech)
-* [Alternative Finance](Alternative-Finance)
+* [InsurTech](#InsurTech)
+* [Alternative Finance](#Alternative-Finance)
 
 # Payments and Remittances
 Providing tools for accept payment and move money globally with APIs and software solutions designed to help you capture more revenue.
 Get up and running with SDKs, API keys, and integration tools
 Stripe provides companies with their differentiate their platforms
-Some new crypto businesses couldn’t pay for crypto purchasing straight away but now they can
+Some new crypto businesses couldn’t pay for crypto purchasing straight away but now they can.
 
 
 # Robo Advisors and Personal Finance
