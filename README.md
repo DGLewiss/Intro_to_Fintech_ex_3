@@ -1,4 +1,5 @@
 # Intro to fintech task
+![Alternate](Fintech_Image.jpeg "Fintech Banner")
 
 ## Table of Contents
 * [Payments and Remittances](#Payments-and-Remittances)
