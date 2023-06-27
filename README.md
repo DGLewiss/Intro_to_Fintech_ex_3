@@ -12,7 +12,7 @@ Stripe provides companies with their differentiate their platforms
 Some new crypto businesses couldn’t pay for crypto purchasing straight away but now they can
 
 
-# Robo Advisors and Personal Finance - Duke
+# Robo Advisors and Personal Finance
 * What does the particular FinTech domain do? What is its purpose?
 Can provide automated investment advise, automated investment management, and digital advice platforms. This domain removes the face to face personal financial advise that is traditionally used and aims at providing asset management or financial advice through auto-mated technologies.
 * What is the competitive landscape? Who are its main contenders?
