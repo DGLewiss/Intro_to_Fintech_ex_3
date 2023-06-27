@@ -65,7 +65,7 @@ Algorithms tame ambiguities in use of legal data Machines learn to understand me
 
 
 
-# Alternative Finance  
+# Alternative Finance
  
   * What does the particular FinTech domain do? What is its purpose?
 Alternative finance is a broad term that defines financial channels outside of traditional regulated banks or capital markets. Specifically, alternative finance will support individuals or institutions to secure finances for unique circumstances or requirements that large domains may classify as too risky. Alternative finance is often completed hastily in comparison to traditional lenders as criteria are less stringent. 
