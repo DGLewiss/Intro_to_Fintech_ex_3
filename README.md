@@ -1,6 +1,11 @@
 # Intro to fintech task
 
-* Payments and Remittances
+## Table of Contents
+* [Patments and Remittances](# Payments and Remittances)
+* 
+* [Robo Advisors and Personal Finance](# Robo Advisors and Personal Finance)
+
+# Payments and Remittances
 Providing tools for accept payment and move money globally with APIs and software solutions designed to help you capture more revenue.
 Get up and running with SDKs, API keys, and integration tools
 Stripe provides companies with their differentiate their platforms
@@ -11,7 +16,7 @@ Some new crypto businesses couldn’t pay for crypto purchasing straight away bu
 
 
 
-* Robo Advisors and Personal Finance - Duke
+# Robo Advisors and Personal Finance - Duke
 	*What does the particular FinTech domain do? What is its purpose?
 Can provide automated investment advise, automated investment management, and digital advice platforms. This domain removes the face to face personal financial advise that is traditionally used and aims at providing asset management or financial advice through auto-mated technologies.
   * 	What is the competitive landscape? Who are its main contenders?
