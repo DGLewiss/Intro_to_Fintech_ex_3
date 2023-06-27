@@ -5,7 +5,7 @@
 * [Robo Advisors and Personal Finance](#Robo-Advisors-and-Personal-Finance)
 * [RegTech (Regulation Technology)](#RegTech)
 * [Digital Banking](#Digital-Banking)
-* [InsureTech](InsureTech)
+* [InsurTech](InsurTech)
 * [Alternative Finance](Alternative-Finance)
 
 # Payments and Remittances
