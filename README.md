@@ -1,9 +1,9 @@
 # Intro to fintech task
 
 ## Table of Contents
-* [Patments and Remittances](# Payments and Remittances)
-* 
-* [Robo Advisors and Personal Finance](# Robo Advisors and Personal Finance)
+* [Payments and Remittances](#Payments-and-Remittances)
+* [Robo Advisors and Personal Finance](#Robo-Advisors-and-Personal-Finance)
+* [RegTech (Regulation Technology)](#RegTech-(Regulation-technology))
 
 # Payments and Remittances
 Providing tools for accept payment and move money globally with APIs and software solutions designed to help you capture more revenue.
@@ -12,22 +12,18 @@ Stripe provides companies with their differentiate their platforms
 Some new crypto businesses couldn’t pay for crypto purchasing straight away but now they can
 
 
-
-
-
-
 # Robo Advisors and Personal Finance - Duke
-	*What does the particular FinTech domain do? What is its purpose?
+* What does the particular FinTech domain do? What is its purpose?
 Can provide automated investment advise, automated investment management, and digital advice platforms. This domain removes the face to face personal financial advise that is traditionally used and aims at providing asset management or financial advice through auto-mated technologies.
-  * 	What is the competitive landscape? Who are its main contenders?
+* What is the competitive landscape? Who are its main contenders?
 Competitive landscape - Investment advisors, Wealth management, retirement planning, tax-loss harvesting, personal finance . 
-Contenders -First robo-adviser was Betterment launched in 208. Top contenders are: Vanguard Personal, Sofi Automated, Wealthfront, spaceship voyager, Six park. 
-  *	 What are the main factors for change in the domain? How is the domain being disrupted by innovation?
-	Automated investing options reducing costs to investors. Younger generations born into tech more inclined to use apps for investing/advice. Convenience - accessible very quickly. Low-complexity - usually robo-advisors are easy to use/understand and manage. 
+Contenders -First robo-adviser was Betterment launched in 208. Top contenders are: Vanguard Personal, Sofi Automated, Wealthfront, spaceship voyager, Six park.
+* What are the main factors for change in the domain? How is the domain being disrupted by innovation?
+Automated investing options reducing costs to investors. Younger generations born into tech more inclined to use apps for investing/advice. Convenience - accessible very quickly. Low-complexity - usually robo-advisors are easy to use/understand and manage. 
 
-  * 	What are the technologies used?
-	Robo-advisors acted like a virtual FA using Artificial Intelligence (AI) that employs algorithms to gather information. Can assess individuals finances using AI or questionnaires,surveys.  
-  * 	What is its past, present, and future growth?
+* What are the technologies used?
+Robo-advisors acted like a virtual FA using Artificial Intelligence (AI) that employs algorithms to gather information. Can assess individuals finances using AI or questionnaires,surveys.  
+* What is its past, present, and future growth?
 The global robo advisory market grew from $28.24 billion in 2022 to $41.52 billion in 2023 at a compound annual growth rate (CAGR) of 47.0%. The robo advisory market is expected to grow to $205.84 billion in 2027 at a CAGR of 49.2%.
 
 
