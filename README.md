@@ -27,7 +27,7 @@ Robo-advisors acted like a virtual FA using Artificial Intelligence (AI) that em
 The global robo advisory market grew from $28.24 billion in 2022 to $41.52 billion in 2023 at a compound annual growth rate (CAGR) of 47.0%. The robo advisory market is expected to grow to $205.84 billion in 2027 at a CAGR of 49.2%.
 
 
-#RegTech 
+# RegTech 
 Risk control ie of Banks,superannuation funds/insurance companies, payments system,ASX, settlements
 	Including Solvency, security, performance, criminalty
 	Compliance with regulations including money washing ets
